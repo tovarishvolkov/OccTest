@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ValidationCache Version="1" SchemaVersion="103">
+	<ValidationCacheItem File="Z:\Volumes\Library\UnrealProjects\OccTest\OccTest_WwiseProject\Virtual Acoustics\Default Work Unit.wwu" DateLow="1629283915" DateHigh="0"/>
+	<ValidationCacheItem File="Z:\Volumes\Library\UnrealProjects\OccTest\OccTest_WwiseProject\Triggers\Default Work Unit.wwu" DateLow="1629283915" DateHigh="0"/>
+	<ValidationCacheItem File="Z:\Volumes\Library\UnrealProjects\OccTest\OccTest_WwiseProject\Switches\Default Work Unit.wwu" DateLow="1629283915" DateHigh="0"/>
+	<ValidationCacheItem File="Z:\Volumes\Library\UnrealProjects\OccTest\OccTest_WwiseProject\States\Default Work Unit.wwu" DateLow="1629283915" DateHigh="0"/>
+	<ValidationCacheItem File="Z:\Volumes\Library\UnrealProjects\OccTest\OccTest_WwiseProject\Soundcaster Sessions\Default Work Unit.wwu" DateLow="1629283915" DateHigh="0"/>
+	<ValidationCacheItem File="Z:\Volumes\Library\UnrealProjects\OccTest\OccTest_WwiseProject\SoundBanks\Default Work Unit.wwu" DateLow="1629287361" DateHigh="0"/>
+	<ValidationCacheItem File="Z:\Volumes\Library\UnrealProjects\OccTest\OccTest_WwiseProject\Queries\Factory Queries.wwu" DateLow="1627815211" DateHigh="0"/>
+	<ValidationCacheItem File="Z:\Volumes\Library\UnrealProjects\OccTest\OccTest_WwiseProject\Queries\Default Work Unit.wwu" DateLow="1629283915" DateHigh="0"/>
+	<ValidationCacheItem File="Z:\Volumes\Library\UnrealProjects\OccTest\OccTest_WwiseProject\Presets\Factory Spatial Audio.wwu" DateLow="1627815211" DateHigh="0"/>
+	<ValidationCacheItem File="Z:\Volumes\Library\UnrealProjects\OccTest\OccTest_WwiseProject\Presets\Default Work Unit.wwu" DateLow="1629283915" DateHigh="0"/>
+	<ValidationCacheItem File="Z:\Volumes\Library\UnrealProjects\OccTest\OccTest_WwiseProject\OccTest_WwiseProject.wproj" DateLow="1629297035" DateHigh="0"/>
+	<ValidationCacheItem File="Z:\Volumes\Library\UnrealProjects\OccTest\OccTest_WwiseProject\OccTest_WwiseProject.crossover.wsettings" DateLow="1629297529" DateHigh="0"/>
+	<ValidationCacheItem File="Z:\Volumes\Library\UnrealProjects\OccTest\OccTest_WwiseProject\Modulators\Default Work Unit.wwu" DateLow="1629283915" DateHigh="0"/>
+	<ValidationCacheItem File="Z:\Volumes\Library\UnrealProjects\OccTest\OccTest_WwiseProject\Mixing Sessions\Default Work Unit.wwu" DateLow="1629283915" DateHigh="0"/>
+	<ValidationCacheItem File="Z:\Volumes\Library\UnrealProjects\OccTest\OccTest_WwiseProject\Metadata\Default Work Unit.wwu" DateLow="1629283915" DateHigh="0"/>
+	<ValidationCacheItem File="Z:\Volumes\Library\UnrealProjects\OccTest\OccTest_WwiseProject\Master-Mixer Hierarchy\Default Work Unit.wwu" DateLow="1629807427" DateHigh="0"/>
+	<ValidationCacheItem File="Z:\Volumes\Library\UnrealProjects\OccTest\OccTest_WwiseProject\Interactive Music Hierarchy\Default Work Unit.wwu" DateLow="1629283915" DateHigh="0"/>
+	<ValidationCacheItem File="Z:\Volumes\Library\UnrealProjects\OccTest\OccTest_WwiseProject\Game Parameters\Default Work Unit.wwu" DateLow="1629803865" DateHigh="0"/>
+	<ValidationCacheItem File="Z:\Volumes\Library\UnrealProjects\OccTest\OccTest_WwiseProject\Events\Test.wwu" DateLow="1629287361" DateHigh="0"/>
+	<ValidationCacheItem File="Z:\Volumes\Library\UnrealProjects\OccTest\OccTest_WwiseProject\Events\Default Work Unit.wwu" DateLow="1629283915" DateHigh="0"/>
+	<ValidationCacheItem File="Z:\Volumes\Library\UnrealProjects\OccTest\OccTest_WwiseProject\Effects\Factory Effects.wwu" DateLow="1629807427" DateHigh="0"/>
+	<ValidationCacheItem File="Z:\Volumes\Library\UnrealProjects\OccTest\OccTest_WwiseProject\Effects\Default Work Unit.wwu" DateLow="1629283915" DateHigh="0"/>
+	<ValidationCacheItem File="Z:\Volumes\Library\UnrealProjects\OccTest\OccTest_WwiseProject\Dynamic Dialogue\Default Work Unit.wwu" DateLow="1629283915" DateHigh="0"/>
+	<ValidationCacheItem File="Z:\Volumes\Library\UnrealProjects\OccTest\OccTest_WwiseProject\Conversion Settings\Factory Conversion Settings.wwu" DateLow="1627815211" DateHigh="0"/>
+	<ValidationCacheItem File="Z:\Volumes\Library\UnrealProjects\OccTest\OccTest_WwiseProject\Conversion Settings\Default Work Unit.wwu" DateLow="1629283915" DateHigh="0"/>
+	<ValidationCacheItem File="Z:\Volumes\Library\UnrealProjects\OccTest\OccTest_WwiseProject\Control Surface Sessions\Default Work Unit.wwu" DateLow="1629285050" DateHigh="0"/>
+	<ValidationCacheItem File="Z:\Volumes\Library\UnrealProjects\OccTest\OccTest_WwiseProject\Audio Devices\Default Work Unit.wwu" DateLow="1629287360" DateHigh="0"/>
+	<ValidationCacheItem File="Z:\Volumes\Library\UnrealProjects\OccTest\OccTest_WwiseProject\Attenuations\Default Work Unit.wwu" DateLow="1629297035" DateHigh="0"/>
+	<ValidationCacheItem File="Z:\Volumes\Library\UnrealProjects\OccTest\OccTest_WwiseProject\Actor-Mixer Hierarchy\Test.wwu" DateLow="1629815903" DateHigh="0"/>
+	<ValidationCacheItem File="Z:\Volumes\Library\UnrealProjects\OccTest\OccTest_WwiseProject\Actor-Mixer Hierarchy\Default Work Unit.wwu" DateLow="1629287361" DateHigh="0"/>
+</ValidationCache>

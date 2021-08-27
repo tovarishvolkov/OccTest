@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{FF10A11F-66EC-4474-ABCF-45BA67B3A18B}" SchemaVersion="103">
+	<Busses>
+		<WorkUnit Name="Default Work Unit" ID="{FF10A11F-66EC-4474-ABCF-45BA67B3A18B}" PersistMode="Standalone">
+			<ChildrenList>
+				<Bus Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}">
+					<ReferenceList>
+						<Reference Name="AudioDevice">
+							<ObjectRef Name="System" ID="{8D97726F-C3B2-40F7-AA43-D4271AF85374}" WorkUnitID="{6859B5CC-C2AC-4E14-B26D-2FFA024D8D77}"/>
+						</Reference>
+					</ReferenceList>
+					<ChildrenList>
+						<Bus Name="OccTestBus" ID="{1B03F992-B2CC-4240-86DD-EC9B9618A18F}">
+							<PropertyList>
+								<Property Name="UseGameAuxSends" Type="bool" Value="True"/>
+							</PropertyList>
+							<ReferenceList/>
+							<ObjectLists/>
+						</Bus>
+						<Bus Name="AUX" ID="{4AE28FD4-1071-45D4-999D-BFD465181310}">
+							<ChildrenList>
+								<AuxBus Name="Rev" ID="{B1E14A47-B26E-4719-94AA-673E91021D8F}">
+									<ReferenceList>
+										<Reference Name="Effect0" PluginName="Wwise RoomVerb" CompanyID="0" PluginID="118" PluginType="3">
+											<ObjectRef Name="Room_Small" ID="{577F1466-A63B-47F7-98BD-C56E433F8B5D}" WorkUnitID="{E8613F7D-BAD3-45CD-A3ED-505576F31277}"/>
+										</Reference>
+									</ReferenceList>
+									<ObjectLists/>
+								</AuxBus>
+							</ChildrenList>
+							<ObjectLists/>
+						</Bus>
+					</ChildrenList>
+					<ObjectLists/>
+				</Bus>
+			</ChildrenList>
+		</WorkUnit>
+	</Busses>
+</WwiseDocument>

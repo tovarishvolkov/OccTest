@@ -1,0 +1,72 @@
+{
+ "SoundBanksInfo": {
+  "Platform": "Mac",
+  "BasePlatform": "Mac",
+  "SchemaVersion": "12",
+  "SoundbankVersion": "140",
+  "RootPaths": {
+   "ProjectRoot": "/Users/tovarish_volkov/Library/Application Support/Wwise2019/Bottles/Wwise2019x64/dosdevices/z:/Volumes/Library/UnrealProjects/OccTest/OccTest_WwiseProject/",
+   "SourceFilesRoot": "/Users/tovarish_volkov/Library/Application Support/Wwise2019/Bottles/Wwise2019x64/dosdevices/z:/Volumes/Library/UnrealProjects/OccTest/OccTest_WwiseProject/.cache/Mac/",
+   "SoundBanksRoot": "/Users/tovarish_volkov/Library/Application Support/Wwise2019/Bottles/Wwise2019x64/dosdevices/z:/Volumes/Library/UnrealProjects/OccTest/Content/WwiseAudio/Mac/",
+   "ExternalSourcesInputFile": "",
+   "ExternalSourcesOutputRoot": "/Users/tovarish_volkov/Library/Application Support/Wwise2019/Bottles/Wwise2019x64/dosdevices/z:/Volumes/Library/UnrealProjects/OccTest/OccTest_WwiseProject/GeneratedSoundBanks/Mac"
+  },
+  "SoundBanks": [
+   {
+    "Id": "3291379323",
+    "GUID": "{3A92361F-D539-461A-A013-251690A8D4CA}",
+    "Language": "SFX",
+    "Hash": "1794240799",
+    "ObjectPath": "\\SoundBanks\\Default Work Unit\\TestBank",
+    "ShortName": "TestBank",
+    "Path": "TestBank.bnk",
+    "IncludedEvents": [
+     {
+      "Id": "1176250837",
+      "Name": "OccTestVox",
+      "ObjectPath": "\\Events\\Test\\OccTestVox",
+      "GUID": "{2ED61202-C034-4767-8207-47CD51FCC0EC}",
+      "MaxAttenuation": "3000.000000",
+      "DurationType": "Infinite",
+      "IncludedMemoryFiles": [
+       {
+        "Id": "715286506",
+        "Language": "SFX",
+        "ShortName": "vox.wav",
+        "Path": "SFX/vox_D79FB2B7.wem"
+       }
+      ],
+      "AuxBusSends": [
+       {
+        "Id": "980603520",
+        "Name": "Rev",
+        "ObjectPath": "\\Master-Mixer Hierarchy\\Default Work Unit\\Master Audio Bus\\AUX\\Rev",
+        "GUID": "{B1E14A47-B26E-4719-94AA-673E91021D8F}"
+       }
+      ]
+     }
+    ],
+    "GameParameters": [
+     {
+      "Id": "161621510",
+      "Name": "OccLP",
+      "ObjectPath": "\\Game Parameters\\Default Work Unit\\OccLP",
+      "GUID": "{C0CE84F7-8A7B-4BC9-81D1-1BB225439225}"
+     },
+     {
+      "Id": "422854597",
+      "Name": "OccRev",
+      "ObjectPath": "\\Game Parameters\\Default Work Unit\\OccRev",
+      "GUID": "{7E532CC5-F1A4-4BC8-B3A5-DCD7650CF1FC}"
+     },
+     {
+      "Id": "1308483168",
+      "Name": "OccVolume",
+      "ObjectPath": "\\Game Parameters\\Default Work Unit\\OccVolume",
+      "GUID": "{C7A90DC6-8C0B-4357-B506-8AA170A36644}"
+     }
+    ]
+   }
+  ]
+ }
+}

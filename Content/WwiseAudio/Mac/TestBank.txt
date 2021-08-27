@@ -1,0 +1,11 @@
+Event	ID	Name			Wwise Object Path	Notes
+	1176250837	OccTestVox			\Test\OccTestVox	
+
+Game Parameter	ID	Name			Wwise Object Path	Notes
+	161621510	OccLP			\Default Work Unit\OccLP	
+	422854597	OccRev			\Default Work Unit\OccRev	
+	1308483168	OccVolume			\Default Work Unit\OccVolume	
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	715286506	vox	Z:\Volumes\Library\UnrealProjects\OccTest\OccTest_WwiseProject\.cache\Mac\SFX\vox_D79FB2B7.wem		\Actor-Mixer Hierarchy\Test\OccTest\vox		6436100
+

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{56BB8F6B-13A5-41F1-A33B-3B3A1424E2CE}" SchemaVersion="103">
+	<GameParameters>
+		<WorkUnit Name="Default Work Unit" ID="{56BB8F6B-13A5-41F1-A33B-3B3A1424E2CE}" PersistMode="Standalone">
+			<ChildrenList>
+				<GameParameter Name="OccLP" ID="{C0CE84F7-8A7B-4BC9-81D1-1BB225439225}">
+					<PropertyList>
+						<Property Name="FilterTimeDown" Type="Real64" Value="0.8"/>
+						<Property Name="FilterTimeUp" Type="Real64" Value="0.3"/>
+						<Property Name="InitialValue" Type="Real64" Value="0"/>
+						<Property Name="RTPCRamping" Type="int16" Value="2"/>
+					</PropertyList>
+				</GameParameter>
+				<GameParameter Name="OccVolume" ID="{C7A90DC6-8C0B-4357-B506-8AA170A36644}">
+					<PropertyList>
+						<Property Name="FilterTimeDown" Type="Real64" Value="0.5"/>
+						<Property Name="FilterTimeUp" Type="Real64" Value="0.3"/>
+						<Property Name="InitialValue" Type="Real64" Value="0"/>
+						<Property Name="RTPCRamping" Type="int16" Value="2"/>
+					</PropertyList>
+				</GameParameter>
+				<GameParameter Name="OccRev" ID="{7E532CC5-F1A4-4BC8-B3A5-DCD7650CF1FC}">
+					<PropertyList>
+						<Property Name="InitialValue" Type="Real64" Value="0"/>
+					</PropertyList>
+				</GameParameter>
+			</ChildrenList>
+		</WorkUnit>
+	</GameParameters>
+</WwiseDocument>

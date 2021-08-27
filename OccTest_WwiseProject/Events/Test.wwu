@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{D73A7B8C-68ED-4067-A48D-71C42D43A3A3}" SchemaVersion="103">
+	<Events>
+		<WorkUnit Name="Test" ID="{D73A7B8C-68ED-4067-A48D-71C42D43A3A3}" PersistMode="Standalone">
+			<ChildrenList>
+				<Event Name="OccTestVox" ID="{2ED61202-C034-4767-8207-47CD51FCC0EC}">
+					<ChildrenList>
+						<Action Name="" ID="{B7E0AF9E-0350-4501-895B-112720068995}" ShortID="679856657">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="vox" ID="{35FF2404-5880-46F6-8695-2E527F97E96D}" WorkUnitID="{44A5018C-B3D2-42D6-B391-27E4D51C718A}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+			</ChildrenList>
+		</WorkUnit>
+	</Events>
+</WwiseDocument>
