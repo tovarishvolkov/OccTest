@@ -1,2 +1,9 @@
-
-OccTest_WwiseProject/ProfilingSession1.prof
+.vs
+*.sln
+.ipch
+.prof
+DerivedDataCache/
+Intermediate/
+Saved/
+Binaries/
+Build/
